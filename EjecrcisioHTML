@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eercicio de Introducción a HTML en OpenBootcamp</title>
+</head>
+<body>
+<!--Este es mi primer comentario de dos líneas-->
+<!--Aprendiendo a documentar mi código con OpenBootcamp-->
+<ul>
+   <li>
+    <a href="https://www.youtube.com/watch?v=QpiShHNicD0">Este sencillo consejo cambió mi vida</a>
+   </li>
+
+   <li>
+    <a href="https://www.youtube.com/watch?v=2KSZR3njUDk&list=PL0kIvpOlieSOIt49DUZ1vscKnJZTIg9nE">Como Obtener Usuarios y Roles en un Solo Query - ASP.NET Core MVC</a>
+   </li>
+
+   <li>
+    <a href="https://www.youtube.com/watch?v=7LnylEkhsg8">a *realistic* day in the life of a software engineer @ amazon/aws (new york edition)</a>
+   </li>
+</ul>
+
+
+</body>
+</html>
